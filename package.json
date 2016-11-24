@@ -1,0 +1,27 @@
+{
+  "name": "edp-webserver-vue",
+  "version": "1.0.1",
+  "description": "build *.vue files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mfylee/edp-webserver-vue.git"
+  },
+  "keywords": [
+    "edp",
+    "vue"
+  ],
+  "author": "mfylee@me.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfylee/edp-webserver-vue/issues"
+  },
+  "dependencies": {
+    "vueify": "^9.0.0",
+    "underscore": "1.8.3"
+  },
+  "homepage": "https://github.com/mfylee/edp-webserver-vue"
+}
